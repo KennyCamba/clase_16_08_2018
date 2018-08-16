@@ -1,0 +1,16 @@
+0001;Quito;Ecuador;31/01/2018
+0002;Cuenca;Ecuador;31/01/2018
+0003;San Cristobal;Ecuador;31/01/2018
+0004;Baltra;Ecuador;31/01/2018
+0004;Baltra;Ecuador;31/01/2018
+0005;Quito;Ecuador;01/02/2018
+0005;Quito;Ecuador;01/02/2018
+0006;Cuenca;Ecuador;01/02/2018
+0007;San Cristobal;Ecuador;01/02/2018
+0008;Baltra;Ecuador;01/02/2018
+0009;Ambato;Ecuador;02/02/2018
+0010;Tena;Ecuador;02/02/2018
+0011;Quito;Ecuador;02/02/2018
+0012;Cuenca;Ecuador;02/02/2018
+0013;San Cristobal;Ecuador;02/02/2018
+0014;Baltra;Ecuador;02/02/2018
